@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "skybox/sky_ascend01dn"
+	"$nofog" 1
+	"$ignorez" 1
+	"$basetexturetransform" "center 0 0 scale 1 1 rotate 90 translate 0 0"
+}

@@ -1,0 +1,80 @@
+﻿"Phrases"
+{
+	"Manage_Maps"
+	{
+		"en"		"Manage Maps"
+		"pl"		"Zarzadzaj Mapami"
+	}
+	
+	"Manage_Weathers"
+	{
+		"en"		"Manage Weathers"
+		"pl"		"Zarzadzaj Pogodami"
+	}
+	
+	"Save_All"
+	{
+		"en"		"Save all changes"
+		"pl"		"Zapisz wszystkie zmiany"
+	}
+	
+	"Main_Menu"
+	{
+		"en"		"Main menu\nby Vasto_Lorde"
+		"pl"		"Glowne menu\nby Vasto_Lorde"
+	}
+	
+	"Add_Map"
+	{
+		"#format"	"{1:s}"
+		"en"		"Add this map {1}"
+		"pl"		"Dodaj te mape {1}"
+	}
+	
+	"Choose_Weather"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"Choose weather for map {1}(current {2})"
+		"pl"		"Wybierz pogode dla tej mapy {1}(obecna {2})"
+	}
+	
+	"Add_New"
+	{
+		"en"		"Add new"
+		"pl"		"Dodaj nowa"
+	}
+	
+	"Chat_New_Weather"
+	{
+		"en"		"Type !name <nameofnewweather> to create new weather!"
+		"pl"		"Wpisz !name <nazwanowejpogody> by stworzyc nowa pogode!"
+	}
+	
+	"Choose_Property"
+	{
+		"#format"	"{1:s}"
+		"en"		"Choose property to configure for {1}"
+		"pl"		"Wybierz wlasnosc do skonfigurowania dla {1}"
+	}
+	
+	"Choose_Skybox"
+	{
+		"#format"	"{1:s}"
+		"en"		"Choose Skybox for {1}"
+		"pl"		"Wybierz Skybox dla {1}"
+	}
+	
+	"Change_Property"
+	{
+		"#format"	"{1:s},{2:d},{3:s}"
+		"en"		"Change {1}({2}) property of {3}"
+		"pl"		"Zmien wlasnosc {1}({2}) dla {3}"
+	}
+	
+	"Change_Amount"
+	{
+		"en"		"Change amount"
+		"pl"		"Zmien liczbe"
+	}
+	
+}
